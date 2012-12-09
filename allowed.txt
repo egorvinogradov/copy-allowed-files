@@ -1,1 +1,3 @@
-example.txt
+example1.txt
+example2.jpg
+example3.sh
